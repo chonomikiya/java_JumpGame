@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"GameBase","h":"","u":""},{"l":"GameBase.MyKeyAdapter","h":"","u":""},{"l":"GameBase.MyTimerTask","h":"","u":""},{"l":"GameBaseMethod","h":"","u":""},{"l":"GameObject","h":"","u":""},{"l":"Goal","h":"","u":""},{"l":"Ground","h":"","u":""},{"l":"Mylogger","h":"","u":""},{"l":"Player","h":"","u":""},{"l":"Stage","h":"","u":""},{"l":"Wall","h":"","u":""}]
